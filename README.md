@@ -4,6 +4,9 @@ work in progress!
 
 inspired by the famous money gun, a pokemon card launcher, self explanatory--it launches pokemon cards! also has a screen that can display whatever you want :P
 
+# Wiring
+
+<img width="1500" height="1300" alt="wiring" src="https://github.com/user-attachments/assets/8ad14a5d-b392-44dc-859d-7c5864d8de25" />
 
 # BOM
 
