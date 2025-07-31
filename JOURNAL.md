@@ -21,3 +21,10 @@ I started the wiring diagram out with TinkerCAD, probably the worst decision of 
 
 **Total Time Spent:** 4h
 
+# July 29th-July 30th: procrastination.... (more CAD!)
+
+got a little busy with real life (touching grass and whatever) and was very tired, but i did cad most of the body
+
+<img width="847" height="788" alt="image" src="https://github.com/user-attachments/assets/714c5080-9d7d-409e-9c3c-5dafb005fb93" />
+
+**Total Time Spent:** 3h
