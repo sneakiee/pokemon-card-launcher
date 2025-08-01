@@ -1,12 +1,17 @@
 # Pokémon Card Launcher
 
-work in progress!
+Ever wanted to flex your cards, since you don't have money? HAHA! Use this instead of a money gun!
 
-inspired by the famous money gun, a pokemon card launcher, self explanatory--it launches pokemon cards! also has a screen that can display whatever you want :P
+Inspired by the famous money gun, a pokemon card launcher, self explanatory--it launches Pokémon cards! It also has a screen that can display whatever you want :P
+Also surprisingly compatible with many other types of cards, such as regular playing cards or other trading card games!
 
 # Wiring
 
 <img width="1500" height="1300" alt="wiring" src="https://github.com/user-attachments/assets/8ad14a5d-b392-44dc-859d-7c5864d8de25" />
+
+# CAD
+
+<img width="653" height="547" alt="image" src="https://github.com/user-attachments/assets/ad9c2a13-bb0e-46d1-8c97-865f29724398" />
 
 # BOM
 
