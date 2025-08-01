@@ -3,6 +3,7 @@ title: "Pokemon Card Gun"
 author: "Mikael Gomez"
 description: "Ever wanted to flex your cards, since you don't have money? HAHA! Use this instead of a money gun."
 created_at: "2025-07-20"
+total time spent: 11hrs
 ---
 
 # July 23rd: Experimenting with Onshape
@@ -28,3 +29,11 @@ got a little busy with real life (touching grass and whatever) and was very tire
 <img width="847" height="788" alt="image" src="https://github.com/user-attachments/assets/714c5080-9d7d-409e-9c3c-5dafb005fb93" />
 
 **Total Time Spent:** 3h
+
+# July 31st: fINAL sTRETCH
+
+went ahead and resized some things and then finished up with the CAD! finally finished designing this project!
+
+<img width="545" height="653" alt="image" src="https://github.com/user-attachments/assets/8c5b1e7d-8da7-4f21-a054-e19eeceb41ef" />
+
+**Total Time Spent:** 6h
