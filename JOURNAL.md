@@ -32,8 +32,9 @@ got a little busy with real life (touching grass and whatever) and was very tire
 
 # July 31st: fINAL sTRETCH
 
-went ahead and resized some things and then finished up with the CAD! finally finished designing this project!
+went ahead and resized some things and then finished up with the CAD! finally finished designing this project! + i did my firmware just look at how big the byte array is LOL
 
 <img width="545" height="653" alt="image" src="https://github.com/user-attachments/assets/8c5b1e7d-8da7-4f21-a054-e19eeceb41ef" />
+<img width="133" height="398" alt="image" src="https://github.com/user-attachments/assets/cf8a6df4-741f-478a-aa15-5e92fe2f429e" />
 
 **Total Time Spent:** 6h
