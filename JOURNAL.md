@@ -24,7 +24,7 @@ The true beginnings of my project!! I started the wiring diagram out with Tinker
 
 # July 29th-July 30th: procrastination.... (more CAD!)
 
-I got a little busy with real life (touching grass and whatever) and was very tired, but I did cad most of the body, now all I had to do was make sure I had space for everything and create screwholes for the top and the bottoms.
+I got a little busy with real life (touching grass and whatever) and was very tired, but I did cad most of the body, which was lowkey rough because I had almost no CAD experience other than hackpad so I was just playing around with things and then my sketches got weird or whatever and I couldn't resize them properly... Onshape is so much fun ._. Now, all I had to do was make sure I had space for everything and create screwholes for the top and the bottoms.
 
 <img width="847" height="788" alt="image" src="https://github.com/user-attachments/assets/714c5080-9d7d-409e-9c3c-5dafb005fb93" />
 
@@ -32,7 +32,7 @@ I got a little busy with real life (touching grass and whatever) and was very ti
 
 # July 31st: fINAL sTRETCH
 
-I went ahead and resized some things and then finished up with the CAD! I made the whole body, adjusted the body to have a handle thats actually holdable, made the bottoms, the top, screwholes and assembled it all together, finally finishing the design for this project! + I did my firmware just look at how big the byte array is LOL (I actually forgot to do my firmware right before I submitted for the form and realized when I had to link my repo...) Luckily all my firmware needed to have is the code to display a pokeball and turning on and off the motor through the button and L298N :'D 
+I went ahead and resized some things and then finished up with the CAD! I made the whole body, adjusted the body to have a handle thats actually holdable, made the bottoms, the top, the trigger (which is literally a 3d printed piece on a button), screwholes and assembled it all together, finally finishing the design for this project! + I did my firmware just look at how big the byte array is LOL (I actually forgot to do my firmware right before I submitted for the form and realized when I had to link my repo...) Luckily all my firmware needed to have is the code to display a pokeball and turning on and off the motor through the button and L298N :'D 
 
 <img width="545" height="653" alt="image" src="https://github.com/user-attachments/assets/8c5b1e7d-8da7-4f21-a054-e19eeceb41ef" />
 <img width="133" height="398" alt="image" src="https://github.com/user-attachments/assets/cf8a6df4-741f-478a-aa15-5e92fe2f429e" />
