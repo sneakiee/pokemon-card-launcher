@@ -20,6 +20,8 @@ Originally this was gonna be made out of cardboard but then Selena told me to 3D
 
 # BOM
 
+BOM adjusted based off time constraint, but an AliExpress version is created and in the repo under BOM_ALIEXPRESS.csv
+
 | Item              | Price (USD)  | Quantity | Total (USD)  | Purchase Link                     |
 |-------------------|--------------|----------|--------------|-----------------------------------|
 | Raspberry Pi Pico | FREE        | 1        | FREE        | I own a few |
@@ -34,3 +36,8 @@ Originally this was gonna be made out of cardboard but then Selena told me to 3D
 | 4x AA Batteries   | ~$3-5   | 1        | ~$3-5      | (cant find link, local dollarama/dollar store) |
 | 2x 9V Batteries   | ~$3-5        | 1        | ~$3-5        | (cant find link, local dollarama/dollar store) |
 | M2 6mm Screws     | $8.83       | 1        | $8.83        |[Amazon](https://www.amazon.ca/gp/product/B0D2TYX8NB/ref=ox_sc_act_title_1?smid=A30WUG2ZDGM0XM&psc=1)|
+| RFID KIT (BONUS) | $8.73        | 1        | $8.73        |[Amazon](https://www.amazon.ca/gp/product/B076HTH56Q/ref=ox_sc_saved_title_7?smid=A2K4DGCC72N9AG&psc=1)|
+
+# BONUS? (WHAT?!)
+
+as you may see in my BOM there is a bonus addition to my project! read about it in the new bonus folder!
