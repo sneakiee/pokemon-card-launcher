@@ -9,6 +9,7 @@ Originally this was gonna be made out of cardboard but then Selena told me to 3D
 
 <img width="800" height="800" alt="render2" src="https://github.com/user-attachments/assets/618efdf2-612b-4af0-95e7-b0e9f25b8854" />
 <img width="800" height="800" alt="render1" src="https://github.com/user-attachments/assets/4146ea35-7321-43d8-9b2c-e5e968612290" />
+<img width="1752" height="2452" alt="boom" src="https://github.com/user-attachments/assets/b8a6dafe-bdd6-4f88-90e4-45702f785f5b" />
 
 # Wiring
 
