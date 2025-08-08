@@ -21,4 +21,6 @@ in attempts to learn instead of doing nothing, especially after hearing about ho
 
 # WIRING!
 
-<img width="1500" height="1300" alt="wiring" src="https://github.com/user-attachments/assets/f5c39fec-6e12-47c1-b4af-d00ec7cf6689" />
+<img width="1500" height="1300" alt="wiring_bonus" src="https://github.com/user-attachments/assets/e510dd2a-367b-434a-9a45-86ba18843fc5" />
+
+
