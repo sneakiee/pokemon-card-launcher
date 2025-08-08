@@ -3,7 +3,7 @@ title: "Pokemon Card Gun"
 author: "Mikael Gomez"
 description: "Ever wanted to flex your cards, since you don't have money? HAHA! Use this instead of a money gun."
 created_at: "2025-07-20"
-total time spent: 15hrs
+total time spent: 18hrs
 ---
 
 # July 23rd: Experimenting with Onshape
@@ -68,3 +68,15 @@ But then I realized something, the RFID kit had a card?! WE MAKING TRAINER CARDS
 unfortunately i got really tired so um i didn't finish the trainer card yet, **renders and trainer card coming soon!**
 
 **Total Time Spent:** 4h
+
+# August 7th-8th: TRAINER CARDS AND RENDERS WOOOOO!!!!!!
+
+celebrated a friend's birthday today! (well technically yesterday it's 4am rn..) so I didn't really find time to finish my things but happy birthday william cagas!!!
+
+basically today I decided to finish my trainer card templates WOOOOOOOOOOOO!!! (goodness this took a long time)
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/d5ebfc56-1649-48d4-99b8-f973ad31c443" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/d4ae5147-0934-4988-91ff-cd84ada0ee73" />
+
+i also finished the render! (see readme of either bonus and the main readme!)
+
+**Total Time Spent:** 3h
