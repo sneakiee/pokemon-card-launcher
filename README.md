@@ -21,22 +21,23 @@ Originally this was gonna be made out of cardboard but then Selena told me to 3D
 
 # BOM
 
+BOM adjusted based off time constraint, but an AliExpress version is created and in the repo under BOM_ALIEXPRESS.csv
+
 | Item              | Price (USD)  | Quantity | Total (USD)  | Purchase Link                     |
 |-------------------|--------------|----------|--------------|-----------------------------------|
-| Raspberry Pi Pico | FREE         | 1        | FREE         | i have an orpheus pico :P |
-| L298N Motor Driver| $1.92        | 1        | $1.92        |[AliExpress](https://www.aliexpress.com/item/32392774289.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.92%21USD%201.92%21%21USD%201.92%21%21%21%402103205117538590533514861e2028%2157692613834%21ct%21CA%21-1%21%211%210)|
-| Breadboard        | FREE         | 1        | FREE         | i have one |
-| DC Motor          | $3.99        | 1        | $3.99        |[AliExpress](https://www.aliexpress.com/item/1005009088012332.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%203.99%21USD%203.99%21%21USD%203.99%21%21%21%402103205117538590533514861e2028%2112000047864628861%21ct%21CA%21-1%21%211%210)|
-| Tactile Button    | $1.88        | 1        | $1.88        |[AliExpress](https://www.aliexpress.com/item/4000678658427.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.88%21USD%201.88%21%21USD%201.88%21%21%21%402103205117538590533514861e2028%2110000005854848642%21ct%21CA%21-1%21%211%210)|
-| Jumper Wires (Kit)| $7.75        | 1        | $7.75        |[AliExpress](https://www.aliexpress.com/item/1005003219096948.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%207.75%21USD%203.20%21%21USD%203.20%21%21%21%402103205117538590533514861e2028%2112000024783046672%21ct%21CA%21-1%21%211%210)|
-| 9V Battery Holder | $1.32        | 1        | $1.32        |[AliExpress](https://www.aliexpress.com/item/1005005554453537.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.32%21USD%201.32%21%21USD%201.32%21%21%21%402103205117538590533514861e2028%2112000035453673630%21ct%21CA%21-1%21%211%210)|
-| OLED Screen       | $4.62        | 1        | $4.62        |[AliExpress](https://www.aliexpress.com/item/4000049991220.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%204.62%21USD%204.62%21%21USD%204.62%21%21%21%402103205117538590533514861e2028%2112000038048905094%21ct%21CA%21-1%21%211%210)|
-| On/Off Switch     | $1.54        | 1        | $1.54        |[AliExpress](https://www.aliexpress.com/item/32873386670.html?spm=a2g0o.cart.0.0.7ff538dauBhahg&mp=1&pdp_npi=5%40dis%21USD%21USD%201.54%21USD%201.54%21%21USD%201.54%21%21%21%402103205117538590533514861e2028%2165526366999%21ct%21CA%21-1%21%211%210&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D)|
-| AA Battery Holder | $1.53        | 1        | $1.53        |[AliEXpress](https://www.aliexpress.com/item/4000081832687.html?spm=a2g0o.cart.0.0.6ada38damwsu8N&mp=1&pdp_npi=5%40dis%21USD%21USD%201.53%21USD%201.53%21%21USD%201.53%21%21%21%402101c5b217540154442713342e23e5%2110000000216767766%21ct%21CA%21-1%21%211%210)|
-| 4x AA Batteries   | FREE         | 1        | FREE         | i have some |
-| 9V Battery        | FREE         | 1        | FREE         | i have one  |
-| M2 6mm Screws     | $1.83        | 1        | $1.83        |[AliExpress](https://www.aliexpress.com/item/4001248931159.html?spm=a2g0o.productlist.main.8.1e8c48ab6e2tAE&aem_p4p_detail=2025073114120713215784501259550003053459&algo_pvid=edb69019-3c2a-42c6-b319-e290e968c35d&algo_exp_id=edb69019-3c2a-42c6-b319-e290e968c35d-7&pdp_ext_f=%7B%22order%22%3A%221109%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.60%210.99%21%21%211.60%210.99%21%402101eab017539963278198024e2720%2112000034160900239%21sea%21CA%210%21ABX&curPageLogUid=XAGJHKPVtxDf&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2025073114120713215784501259550003053459_2#nav-description)|
-| RFID Kit (BONUS)  | $1.78        | 1        | $1.78        |[AliExpress](https://www.aliexpress.com/item/1005006087459353.html?spm=a2g0o.productlist.main.8.2a2c6728K2ick8&aem_p4p_detail=202508062108354219856462981010000087463&algo_pvid=fe8b1262-3654-48b7-a2e2-87b1fe3f14c7&algo_exp_id=fe8b1262-3654-48b7-a2e2-87b1fe3f14c7-7&pdp_ext_f=%7B%22order%22%3A%22363%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21USD%211.78%211.15%21%21%2112.72%218.22%21%402103241117545397156103239e7ea4%2112000047562069074%21sea%21CA%216439284801%21ABX%211%210%21&curPageLogUid=D48t1g4XPNAH&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202508062108354219856462981010000087463_3)|
+| Raspberry Pi Pico | FREE        | 1        | FREE        | I own a few |
+| L298N Motor Driver| $9.99        | 1        | $9.99        |[Amazon](https://www.amazon.ca/gp/product/B0CM8SFRLW/ref=ox_sc_act_title_5?smid=A3VC9L3VE4JN2Z&th=1)|
+| Breadboard        | FREE        | 1        | FREE        | I own one |
+| DC Motor          | $12.98       | 1        | $12.98 |[Amazon](https://www.amazon.ca/gp/product/B01JG8DIYQ/ref=ox_sc_act_title_2?smid=A34K5WF5Z9R33P&psc=1)|
+| Tactile Button    | FREE     | 1        | FREE      | I own like 2 |
+| Jumper Wires | FREE      | 1        | FREE       | I have some  |
+| Battery Holders | $10.99        | 1        | $10.99        |[Amazon](https://www.amazon.ca/gp/product/B01MAXT00Q/ref=ox_sc_act_title_4?smid=A2UIWYS7E6PLOL&th=1)|
+| OLED Screen       | $18.99        | 1        | $18.99       |[Amazon](https://www.amazon.ca/gp/product/B0CFF17DGH/ref=ox_sc_act_title_3?smid=A30QSGOJR8LMXA&th=1)|
+| On/Off Switch     | $6.99        | 1        | $6.99        |[Amazon](https://www.amazon.ca/gp/product/B0DCNQHKDB/ref=ox_sc_act_title_6?smid=A10ESF7JQBUVKN&psc=1)|
+| 4x AA Batteries   | ~$3-5   | 1        | ~$3-5      | (cant find link, local dollarama/dollar store) |
+| 2x 9V Batteries   | ~$3-5        | 1        | ~$3-5        | (cant find link, local dollarama/dollar store) |
+| M2 6mm Screws     | $8.83       | 1        | $8.83        |[Amazon](https://www.amazon.ca/gp/product/B0D2TYX8NB/ref=ox_sc_act_title_1?smid=A30WUG2ZDGM0XM&psc=1)|
+| RFID KIT (BONUS) | $8.73        | 1        | $8.73        |[Amazon](https://www.amazon.ca/gp/product/B076HTH56Q/ref=ox_sc_saved_title_7?smid=A2K4DGCC72N9AG&psc=1)|
 
 # BONUS? (WHAT?!)
 
